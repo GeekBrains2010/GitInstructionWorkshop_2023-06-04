@@ -1,5 +1,7 @@
 # Инструкция по работе с git
 
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. 
+
 ## Seminar 1
 
 *git init* - initialize local repository
