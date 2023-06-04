@@ -182,6 +182,8 @@
 
 ## Книги и полезные ссылки по изучению git.
 
+[Читать о Git:](https://www.atlassian.com/ru/git/tutorials/learn-git-with-bitbucket-cloud)
+
 ## Альтернативные системы контроля версий.
 Существует множество различных систем контроля версий. Самые известные - CVS, Apache Subversion (SVN), Mercurial.
 
