@@ -13,6 +13,7 @@ Cancel changes
 - Переходим на сайт code.visualstudio.com, секция Download.
 - Нажимаем и скачиваем себе на ПК дистрибутив под необходимую ОС (Mac, Linux, Windows).
 - Запускаем инсталлятор и следуем инструкциям: принимаем, добавляем все галочки, далее, ждем пока программа установится на наш ПК.
+
  ![скриншот](https://habrastorage.org/webt/yx/om/uz/yxomuzyfsnifggai8ecy41_xhca.png)
 
 ### Установка git на ваш ПК
