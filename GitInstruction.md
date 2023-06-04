@@ -191,3 +191,7 @@
 
 # Apache Subversion (SVN)
 
+## Работа с myQuiz
+
+## Команда git branch -d <название ветки> - удаляет ветку
+
