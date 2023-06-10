@@ -2,19 +2,19 @@
 
 ## Seminar 1
 
-*git init* - initialize local repository
+**git init** - инициализация локального репозитория
 
-*git status* - get information on current status
+**git status** - получить информацию от git о его текущем состоянии
 
-*git add "filename.txt"* - added your file to control version
+**git add "path"** - добавить файл или файлы к следующему коммиту
 
-*git commit -m "yourcomment"* - commited your changes and add comment  
+**git add .** - добаляет все файлы в проекте в отслеживание
 
-*git log* - see log file git to your changes
+**git commit -am "message"** - git add + git commit (Работает только после 1-го ручного добавления в отслеживание)
 
-*git checkout* - switch in branch/version file
+**git commit -m "message"** - создание коммита
 
-*git diff* - see to difference in your files/versions/commits
+**git diff** - увидеть разницу между текущим файлом и закоммиченным файлом
 
 ![Illustration on this project](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO81J1TgiVuNcvhkhgz8UuEeCjXm-NHdaopBW2kTcs&s)
 
@@ -35,7 +35,7 @@
 
 *git branch <название>* - создать новую ветку
 
-*'git checkout <название>* - переключиться на ветку
+*git checkout <название>* - переключиться на ветку
 
 *git branch -d <название>* - удалить ветку
 
