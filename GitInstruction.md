@@ -2,21 +2,21 @@
 
 ## Seminar 1
 
-*git init* - initialize local repository
+*git init* - initialize local repository (инициализация локального репозитория)
 
-*git status* - get information on current status
+*git status* - get information on current status (проверка статуса сохранения изменений файлов)
 
-*git add "filename.txt"* - added your file to control version
+*git add "filename.txt"* - added your file to control version  (сохранение вносимых изменений в названный в команде файл)
 
-*git commit -m "yourcomment"* - commited your changes and add comment  
+*git commit -m "yourcomment"* - commited your changes and add comment  (сохранение вашего комментария (commit ) где "-m" обозначает "сообщение")
 
-*git log* - see log file git to your changes
+*git log* - see log file git to your changes (открытие журнала изменений)
 
-*git checkout* - switch in branch/version file
+*git checkout* - switch in branch/version file (дословно переход по определенному пути, ветки)
 
-*git diff* - see to difference in your files/versions/commits
+*git diff* - see to difference in your files/versions/commits (контроль изменения файла)
 
-![Illustration on this project](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO81J1TgiVuNcvhkhgz8UuEeCjXm-NHdaopBW2kTcs&s)
+![Illustration on this project](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO81J1TgiVuNcvhkhgz8UuEeCjXm-NHdaopBW2kTcs&s)  (вложение иллюстрации к файлу с вводимым адресом места хранения файла с рисунком)
 
 
 ## Seminar 2
